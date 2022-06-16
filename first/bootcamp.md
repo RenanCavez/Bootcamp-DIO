@@ -60,9 +60,9 @@ _O **git add** pode ser usado de três maneiras:_
 
 
 
-_Quando o arquivo passa a ser conhecido pela ferramenta **Git**, ele passa a ser um arquivo Trancked. E é nesse momento em que acontece o ciclo de versionamento do arquivo, que são eles Unmodified, Modified e staged.
+_Quando o arquivo passa a ser conhecido pela ferramenta **Git**, ele passa a ser um arquivo Trancked. E é nesse momento em que acontece o ciclo de versionamento do arquivo, que são eles Unmodified, Modified e staged._
 
-Se removermos o arquivo Unmodified ele retorna a ser um arquivo untracked. Ao editarmos o arquivo Unmodified, ele passa a ser um arquivo modified, aguardando um commit e logo após ele ser commitado, passa a ser novamente um arquivo Unmodified, ou seja um arquivo sem novas modificações.
+_Se removermos o arquivo Unmodified ele retorna a ser um arquivo untracked. Ao editarmos o arquivo Unmodified, ele passa a ser um arquivo modified, aguardando um commit e logo após ele ser commitado, passa a ser novamente um arquivo Unmodified, ou seja um arquivo sem novas modificações._
 
 ​                             
 
