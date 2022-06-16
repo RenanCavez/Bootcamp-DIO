@@ -64,30 +64,16 @@ _Quando o arquivo passa a ser conhecido pela ferramenta **Git**, ele passa a ser
 
 Se removermos o arquivo Unmodified ele retorna a ser um arquivo untracked. Ao editarmos o arquivo Unmodified, ele passa a ser um arquivo modified, aguardando um commit e logo após ele ser commitado, passa a ser novamente um arquivo Unmodified, ou seja um arquivo sem novas modificações.
 
+​                             
 
 
-### Untracked                Unmodified                        Modified                                Staged
 
-**>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>**
-
-#### Adiciona o arquivo
-
-​                                                                                          **>>>>>>>>>>>>>>>**                                    **>>>>>>>>>>>>>>>**   
+​                                                                                      
 
 ​                                                                                                     
 
-​                                                                                  #### Edita o arquivo                                      Stage o arquivo
-
-​                                                                                     _cada edição do arquivo é_                                         _git add_ 
-
-​                                                                                    _gerado uma nova chave de_                            _Área onde o arquivo_
-
-​                                                                                             _segurança SHA1_                                   _está preparado para ser_ 
-
-​                                                                                                                                                         _armazenado no repositório_
+​                                                           
 
 
 
-​                                                                             **<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<**
-
-####                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Commit
+​                                                                             
